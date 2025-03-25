@@ -3,14 +3,14 @@
 A simple YouTube homepage clone built using **HTML** and **CSS**. This project replicates the layout, navigation bar, video thumbnails, and responsiveness of YouTube's homepage.
 
 ## Features
-- ✅ Responsive design  
-- ✅ YouTube-like homepage layout  
-- ✅ Styled navigation bar and sidebar  
-- ✅ Grid-based video thumbnails  
+- Responsive design  
+- YouTube-like homepage layout  
+- Styled navigation bar and sidebar  
+- Grid-based video thumbnails  
 
 ## Technologies Used
-- 🌐 **HTML5** – Structure and layout  
-- 🎨 **CSS3** – Styling and responsiveness  
+- **HTML5** – Structure and layout  
+- **CSS3** – Styling and responsiveness  
 
 ## Installation & Usage
 1. Clone the repository:  
