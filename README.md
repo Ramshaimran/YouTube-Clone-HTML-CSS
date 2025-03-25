@@ -22,7 +22,8 @@ cd YouTube-Clone-HTML-CSS
 3. Open index.html in your browser.
 
 4. Screenshots
-![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 5. Contributing
 Feel free to contribute by improving the design or adding more features!
